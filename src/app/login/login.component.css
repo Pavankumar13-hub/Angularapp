@@ -1,0 +1,14 @@
+body{
+    font-family: 'open Sans', sans-serif;
+    background: #334499;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+}
+label{
+    color: aliceblue;
+}
+
+h1{
+    color: chartreuse;
+}

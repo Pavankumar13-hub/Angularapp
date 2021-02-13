@@ -1,0 +1,13 @@
+  body{ 
+      text-align: center;
+
+    color:green; 
+
+  } 
+  label{
+      color: rgb(12, 11, 8);
+  }
+ .btn{
+     background-color: darkgreen;
+     color: white;
+ }
